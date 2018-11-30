@@ -3,10 +3,6 @@
 **GoST** is a *dumb* Go script that check constantly the *uptime*/*status code* of a WebServer.
 GoST stands for **Go Site Tracker**
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Why?
 Mainly because I'm bored. I don't have any reason to use a program like this. It's an exercise. I want to make practice with GoLang
 
